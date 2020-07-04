@@ -1,1 +1,1 @@
-A Custom Single Page Portfolio
+A dump of ideas for my portfolio. In semi working order. This repo is mostly for my own reference and so I can pull whatever idea/component I've already made for future projects. I might spend some time converting components into CodePens depending on my own time/effort. 
