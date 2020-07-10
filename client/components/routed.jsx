@@ -13,6 +13,7 @@ import Contact from './contact';
 import Hobbies from './hobbies';
 import NavBar from './navbar';
 import AnimatedSwitch from './page-animation';
+import TimeLine from './timeline'
 
 class RoutedApp extends React.Component {
   constructor(props) {
@@ -42,6 +43,10 @@ class RoutedApp extends React.Component {
         {
           component: Hobbies,
           path: '/hobbies'
+        },
+        {
+          component: TimeLine,
+          path: '/timeline'
         }
       ]
     };
