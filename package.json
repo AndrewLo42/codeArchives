@@ -42,7 +42,7 @@
     "reactstrap": "^8.2.0",
     "sendemail": "^4.0.0",
     "smart-sections": "0.0.6",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/core": "7.7.2",
